@@ -5,9 +5,9 @@
 - 🎓 Studying Information System at Sofia University “St. Kliment Ohridski”
 
 ## 📚 Current projects
-- Introduction to Programming
-- Object Orient Programming
-↳ Featured project: **Mondial**
+- Introduction to Programming. 
+- Object Orient Programming.
+  ↳ Here u can find my bigger project: **Mondial**
 
 ## 🛠️ Languages and Tools
 
