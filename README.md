@@ -7,7 +7,7 @@
 ## 📚 Current projects
 - Introduction to Programming
 - Object Orient Programming
-  ↳ Here you can find my bigger project called **Mondial**
+↳ Featured project: **Mondial**
 
 ## 🛠️ Languages and Tools
 
