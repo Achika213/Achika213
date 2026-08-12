@@ -10,6 +10,4 @@
 
 ## Languages and Tools
 
-<img src="assets/cpp.png" width="40">
-<img src="assets/csharp.png" width="40">
-<img src="assets/git.png" width="40">
+<img src="assets/Git.png" width="40"> <img src="assets/cpp.png" width="40"> <img src="assets/csharp.svg" width="40">
